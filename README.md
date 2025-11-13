@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hi there 👋, I'm Youssef Mohamed
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Specialist;Problem+Solver;Cross-Platform+Expert" alt="Typing SVG" /> </div>
+
+# 👨‍💻 About Me:
 I'm a passionate Flutter Developer from Egypt 🇪🇬, dedicated to building beautiful, high-performance cross-platform mobile applications. With a strong foundation in Dart and Flutter framework, I transform ideas into seamless user experiences that work flawlessly on both iOS and Android platforms.
 * 🔭 Currently working on innovative mobile applications using Flutter
 * 🌱 Constantly learning and exploring new Flutter packages and architectural patterns
